@@ -1,0 +1,43 @@
+.projects-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.row {
+    align-items: center;
+    justify-content: center;
+}
+.project-parent h2 {
+    text-align: center;
+    align-items: center;
+    text-decoration: underline;
+}
+.project-parent p {
+    text-align: center;
+    align-items: center;
+}
+.project-parent i {
+    color: #1f2235;
+    padding: 20px;
+    padding-left: 0px;
+    font-size: 50px;
+}
+.project-parent i:hover {
+    transform: scale(1.5);
+    color: blue;
+}
+.mb-2 {
+    box-shadow: 0 0px 20px -2px #1f2235;
+}
+.project-parent .mb-2 {
+    align-items: center;
+    justify-content: center;
+    height: 570px;
+    background-color: cornsilk;
+}
+.project-parent .mb-2:hover {
+    transform: scale(1.07);
+    transition: 1s ease-out;
+    box-shadow: 0 0px 20px -2px white;
+}
