@@ -18,7 +18,7 @@ function AboutMe(props) {
             bullets: [
                 "PERN stack Development",
                 "Redux for State Mnanagement",
-                "Deployment of Web Applications via Heroku or Netlify",
+                "Deployment of Web Applications via Heroku",
                 "REST API's",
                 "Sorting Algorithms",
                 "LinkedLists, Stacks/Queues, Hash Tables, Trees, and Graphs"

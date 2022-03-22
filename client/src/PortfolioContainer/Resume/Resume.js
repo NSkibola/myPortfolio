@@ -63,8 +63,7 @@ const resumeBullets = [
     { src: "React.png", idx: 9 },
     { src: "Redux.png", idx: 10 },
     { src: "Sequelize.png", idx: 11 },
-    { src: "Heroku.png", idx: 12 },
-    { src: "Netlify.png", idx: 13 }
+    { src: "Heroku.png", idx: 12 }
   ];
 
   //Listing my Projects
