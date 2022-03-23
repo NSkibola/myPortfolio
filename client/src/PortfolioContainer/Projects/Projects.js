@@ -39,7 +39,7 @@ export default function Projects(props) {
                         <Card.Text>
                           <p>My portfolio site that you are visiting right now! My first ever personal website, I'm not the greatest at styling but hopefully you do find it nice to look at and enjoy scrolling through it.
                           </p>
-                          <a href='https://www.linkedin.com/in/nikola-skibola/'>
+                          <a href='https://nikolaskibola.herokuapp.com/'>
                             <i className='fa fa-globe'></i>
                         </a>
                         <a href='https://github.com/NSkibola/myPortfolio'>
